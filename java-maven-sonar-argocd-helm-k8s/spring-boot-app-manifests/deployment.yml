@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: durga2411/ultimate-cicd:1
+        image: durga2411/lol:1
         ports:
         - containerPort: 8080
 
